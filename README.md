@@ -1,2 +1,2 @@
 # QuickSort-Algorithm
-An improved version of Hoare's algorithm, "quicksort".
+An improved version of Hoare's algorithm, "QuickSort".
